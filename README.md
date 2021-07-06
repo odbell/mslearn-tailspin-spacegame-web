@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/odbell2019/Space%20Game%20pipeline%20project/_apis/build/status/odbell.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/odbell2019/Space%20Game%20pipeline%20project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
